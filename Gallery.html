@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <style>
+        * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body { background-color: black; 
+  border: 1px solid #ccc;
+  width: 100%;
+
+}
+
+main {
+  column-count: 1;
+  gap: 0.5rem;
+  padding: 0.5rem;
+
+  & img {
+    width: 100%;
+    margin-bottom: 0.25rem;
+  }
+}
+
+@media (width > 1000px) {
+  main {
+    column-count: 2;
+  }
+}
+
+@media (width > 1000px) {
+  main {
+    column-count: 3;
+  }
+}
+
+@media (width > 1300px) {
+  main {
+    column-count: 4;
+  }
+}
+    </style>
+</head>
+<body>
+    <main>
+        <img src="https://cdn.pixabay.com/photo/2014/03/17/14/49/mahatma-289158_1280.jpg">
+        <img src="https://cdn.pixabay.com/photo/2013/09/27/11/36/art-186962_1280.jpg">
+        <img src="https://cdn.pixabay.com/photo/2022/11/03/16/57/dancer-7567925_1280.jpg">
+        <img src="https://thumbs.dreamstime.com/z/chennai-marina-beach-bajji-night-163494953.jpg?w=992">
+        <img src="https://thumbs.dreamstime.com/z/namma-chennai-letters-icon-namma-chennai-aka-our-chennai-letters-as-icon-chennai-marina-as-landmark-211052024.jpg?w=992">
+        <img src="https://thumbs.dreamstime.com/z/marina-beach-chennai-india-20606503.jpg?w=992">
+        <img src="https://images.unsplash.com/photo-1582510003544-4d00b7f74220?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlbm5haXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80">
+        <img src="https://cdn.pixabay.com/photo/2014/03/17/14/49/mahatma-289158_1280.jpg">
+        <img src="https://cdn.pixabay.com/photo/2013/09/27/11/36/art-186962_1280.jpg">
+        <img src="https://cdn.pixabay.com/photo/2022/11/03/16/57/dancer-7567925_1280.jpg">
+        <img src="https://thumbs.dreamstime.com/z/chennai-marina-beach-bajji-night-163494953.jpg?w=992">
+        <img src="https://thumbs.dreamstime.com/z/namma-chennai-letters-icon-namma-chennai-aka-our-chennai-letters-as-icon-chennai-marina-as-landmark-211052024.jpg?w=992">
+        <img src="https://thumbs.dreamstime.com/z/marina-beach-chennai-india-20606503.jpg?w=992"> 
+      </main>
+     
+</body>
+</html>

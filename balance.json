@@ -1,0 +1,206 @@
+<head>
+  <meta charset="utf-8">
+  <title>Travel Cards</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://kit.fontawesome.com/6095ccca98.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="cards.css">
+</head>
+<body>
+  <div class="all-container">
+    <div class="card">
+      <div class="card-six">
+        <img class="card-img" src="malls/phenix.jpeg" alt="PhoenixMall">
+        <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star "></span></i></h6>
+        <h2>Phoenix Marketcity</h2>
+        <h5><b>Largest Malls in India in</b>2018</h5>
+      
+        <div class="icon">
+          <i class="far fa-clock"> <span>Visiting Time : 10am -10pm</span></i><br>
+          <i class="fas fa-running"> <span>Huge shopping complex.</span></i><br><br>
+           <a href="https://www.phoenixmarketcity.com/chennai" style="color: black; ">Read more..</a>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-six">
+        <img class="card-img" src="malls/exp.jpeg" alt="Express avenue mall">
+        <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star "></span></i></h6>
+        <h2>Express Avenue Mall</h2>
+        <h5>Established in the Year<b>2006</b></h5>
+      
+        <div class="icon">
+          <i class="far fa-clock"> <span>Visiting Time : 10am -10pm</span></i><br>
+          <i class="fas fa-running"> <span>Largest in south India</span></i><br><br>
+           <a href="https://www.expressavenue.in/" style="color: black; ">Read more..</a>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-six">
+        <img class="card-img" src="malls/forum.png" alt="Forum Vijaya mall">
+        <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star"></span></i></h6>
+        <h2>Forum Vijaya Mall</h2>
+        <h5>Chennai's ultimate gateway to Fashion</h5>
+      
+        <div class="icon">
+          <i class="far fa-clock"> <span>Visiting Time : 10am -10pm</span></i><br>
+          <i class="fas fa-running"> <span>spacious food court & a movie theater </span></i><br><br>
+           <a href="https://www.nexusmalls.com/nexus-vijaya" style="color: black; ">Read more..</a>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-six">
+        <img class="card-img" src="malls/vr.jpeg" alt="VR Mall">
+        <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star"></span></i></h6>
+        <h2>VR mall</h2>
+        <h5>Colorful & contemporary shopping mall</h5>
+      
+        <div class="icon">
+          <i class="far fa-clock"> <span>Visiting Time : 10am -10pm</span></i><br>
+          <i class="fas fa-running"> <span>food court & over 200 stores.</span></i><br><br>
+           <a href="https://vrchennai.com/home" style="color: black; ">Read more..</a>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-six">
+        <img class="card-img" src="malls/Grand Square Mall .jpg" alt="The Grand Mall">
+        <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star"></span>
+          <span class="fa fa-star"></span></i></h6>
+        <h2>The Grand Mall</h2>
+        <h5>casual food court & a cinema.</h5>
+      
+        <div class="icon">
+          <i class="far fa-clock"> <span>Visiting Time : 10am -10pm</span></i><br>
+          <i class="fas fa-running"> <span>premium film exhibition company</span></i><br><br>
+           <a href="#" style="color: black; ">Read more..</a>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-six">
+        <img class="card-img" src="malls/Spencer.jpeg" alt="Spencer Plaza Mall">
+        <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star"></span></i></h6>
+        <h2>Spencer Plaza Mall</h2>
+        <h5><b>Most Admired Retailer of the Year </h5>
+      
+        <div class="icon">
+          <i class="far fa-clock"> <span>Visiting Time : 7am -10pm</span></i><br>
+          <i class="fas fa-running"> <span>One of the biggest super markets in Velachery</span></i><br><br>
+           <a href="http://www.spencersretail.com/" style="color: black; ">Read more..</a>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-six">
+        <img class="card-img" src="malls/Spencer.jpeg" alt="Spencer Plaza Mall">
+        <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star checked"></span>
+          <span class="fa fa-star"></span></i></h6>
+        <h2>Spencer Plaza Mall</h2>
+        <h5><b>Most Admired Retailer of the Year </h5>
+      
+        <div class="icon">
+          <i class="far fa-clock"> <span>Visiting Time : 7am -10pm</span></i><br>
+          <i class="fas fa-running"> <span>One of the biggest super markets in Velachery</span></i><br><br>
+           <a href="http://www.spencersretail.com/" style="color: black; ">Read more..</a>
+        </div>
+      </div>
+    </div>
+    
+    
+  </div>
+</body>
+</html>
+
+
+
+
+<div class="card">
+    <div class="card-six">
+      <img class="card-img" src="malls/Ampa skywalk Mall .jpeg" alt="Ampa skywalk Mall">
+      <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span></i></h6>
+      <h2>Ampa skywalk Mall</h2>
+      <h5> games zone and a food court</h5>
+    
+      <div class="icon">
+        <i class="far fa-clock"> <span>Visiting Time : 9am -11pm</span></i><br>
+        <i class="fas fa-running"> <span>major clothing and apparel brands</span></i><br><br>
+         <a href="https://en.wikipedia.org/wiki/Ampa_Skywalk" style="color: black; ">Read more..</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-six">
+      <img class="card-img" src="malls/Chennai City Centre  Mall .jpeg" alt="Chennai City Center">
+      <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span></i></h6>
+      <h2>Chennai City Center</h2>
+      <h5>Chennai City Centre in Mylapore</h5>
+    
+      <div class="icon">
+        <i class="far fa-clock"> <span>Visiting Time : 10am -10pm</span></i><br>
+        <i class="fas fa-running"> <span>Located in the heart of the chennai city</span></i><br><br>
+         <a href="https://chennaiciticentre.in//" style="color: black; ">Read more..</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-six">
+      <img class="card-img" src="malls/Gold souk Grande Mall.jpeg" alt="Gold Souk Grande Mall">
+      <h6 class="guided">Ratings <i><span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star checked"></span>
+        <span class="fa fa-star"></span>
+        <span class="fa fa-star"></span></i></h6>
+      <h2>Gold Souk Grande Mall</h2>
+      <h5>unveiled in April 2009</h5>
+    
+      <div class="icon">
+        <i class="far fa-clock"> <span>Visiting Time : 5am -11pm</span></i><br>
+        <i class="fas fa-running"> <span>The mall is part of the Gold Souk chain of malls</span></i><br><br>
+         <a href="https://en.wikipedia.org/wiki/Gold_Souk_Grande_Mall_Chennai" style="color: black; ">Read more..</a>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  
